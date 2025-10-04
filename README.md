@@ -166,4 +166,4 @@ chỉ bằng một giao diện web duy nhất.
 Tác giả: Nguyen Hung
 Tên dự án: hktmc Panel Manager
 Phiên bản: v5.7 Final Cloud Edition
-Ngày build: $(04/01/2025)
+Ngày build: $(04/10/2025)

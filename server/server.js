@@ -1,1 +1,0 @@
-import express from 'express';import cors from 'cors';const a=express();a.use(cors());a.use(express.json());a.post('/api/console',(q,r)=>r.json({ok:true,echo:'> '+(q.body?.cmd||'')}));a.listen(3200,()=>console.log('API 3200'));

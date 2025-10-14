@@ -1,1 +1,0 @@
-window.AreaChart=function(){};
